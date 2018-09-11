@@ -1,0 +1,12 @@
+name: IMDB_Explorer
+title: IMDB_Explorer
+username:
+account: salehmoradi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 435463
+bundleId: 1579781
+url: https://salehmoradi.shinyapps.io/IMDB_Explorer/
+when: 1536643342.57026
+asMultiple: FALSE
+asStatic: FALSE
